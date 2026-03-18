@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 72" fill="none" aria-label="Les Jardins de l'Hacienda">
+  <!-- Losange central -->
+  <path d="M36 8 L60 36 L36 64 L12 36 Z" stroke="#C9A96E" stroke-width="1.2" fill="none" opacity="0.85"/>
+  <path d="M36 16 L52 36 L36 56 L20 36 Z" stroke="#C9A96E" stroke-width="0.6" fill="none" opacity="0.45"/>
+  <!-- Initiales JH -->
+  <text x="36" y="41" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-style="italic" font-weight="600" fill="#C9A96E" opacity="0.9">JH</text>
+  <!-- Traits latéraux décoratifs -->
+  <line x1="65" y1="36" x2="80" y2="36" stroke="#C9A96E" stroke-width="0.8" opacity="0.4"/>
+  <!-- Texte principal -->
+  <text x="88" y="30" font-family="Georgia, serif" font-size="20" font-weight="700" font-style="italic" fill="#F5F0E8" letter-spacing="-0.3">Les Jardins</text>
+  <!-- Séparateur fin -->
+  <line x1="88" y1="38" x2="268" y2="38" stroke="#C9A96E" stroke-width="0.5" opacity="0.35"/>
+  <!-- Sous-titre -->
+  <text x="88" y="53" font-family="system-ui, sans-serif" font-size="9" font-weight="500" fill="#C9A96E" letter-spacing="3.5" opacity="0.8">DE L'HACIENDA</text>
+</svg>

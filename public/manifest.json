@@ -1,0 +1,49 @@
+{
+  "name": "Les Jardins de l'Hacienda",
+  "short_name": "L'Hacienda",
+  "description": "Restaurant gastronomique · Terrasse · Piscine à Moineville, entre Metz et Nancy.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1E1008",
+  "theme_color": "#1E1008",
+  "orientation": "portrait-primary",
+  "lang": "fr",
+  "categories": ["food", "lifestyle"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/images/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Réserver une table",
+      "short_name": "Réserver",
+      "description": "Contacter les Jardins de l'Hacienda",
+      "url": "/contact",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    },
+    {
+      "name": "La Carte",
+      "short_name": "Carte",
+      "description": "Découvrir la carte du Chef",
+      "url": "/la-table",
+      "icons": [{ "src": "/favicon.svg", "sizes": "any" }]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/og-image.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "label": "Les Jardins de l'Hacienda"
+    }
+  ]
+}

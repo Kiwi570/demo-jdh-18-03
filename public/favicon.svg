@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#2C1810"/>
+  <!-- Lettre H stylisée en serif avec accent doré -->
+  <text x="4" y="25" font-family="Georgia, serif" font-size="24" font-weight="300" fill="#C9A96E">H</text>
+  <!-- Trait doré bas -->
+  <rect x="4" y="28" width="24" height="1" fill="#C9A96E" opacity="0.6"/>
+</svg>
